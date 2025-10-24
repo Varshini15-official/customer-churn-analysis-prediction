@@ -123,25 +123,24 @@ This dashboard turned the analysis into **actionable intelligence** for targeted
 
 ---
 
-
 ## 📁 Data Flow Architecture
 
-```text
-SQL Server (Data Cleaning & View Creation)
-        ↓
-Power BI (Descriptive Analytics)
-        ↓
-Excel Export of vw_ChurnData
-        ↓
-Python (Random Forest Model → Predictions.csv)
-        ↓
+SQL Server (Data Cleaning & View Creation)  
+↓  
+Power BI (Descriptive Analytics)  
+↓  
+Excel Export of vw_ChurnData  
+↓  
+Python (Random Forest Model → Predictions.csv)  
+↓  
 Power BI (Churn Prediction Dashboard)
 
 ---
 
 ## 👩‍💻 Author
 
-**Varshuuuu**
+**Varshini15-official**
+
 
 
 
