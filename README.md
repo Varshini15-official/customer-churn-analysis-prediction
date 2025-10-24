@@ -116,6 +116,14 @@ This dashboard turned the analysis into **actionable intelligence** for targeted
 
 ---
 
+## 📊 Power BI Visualization Reference
+
+- **📈 Churn Summary Dashboard:** Displays churn patterns by gender, age group, contract type, payment method, tenure, internet type, and churn reason  
+- **🤖 Prediction Dashboard:** Visualizes predicted churners categorized by gender, state, contract type, age group, and tenure group
+
+---
+
+
 ## 📁 Data Flow Architecture
 
 ```text
@@ -131,16 +139,10 @@ Power BI (Churn Prediction Dashboard)
 
 ---
 
-🎯 Project Outcome
-✅ Cleaned, analyzed, and visualized data from 6,000+ telecom customers
-✅ Built a Random Forest model that accurately predicted 384 potential churners
-✅ Designed interactive Power BI dashboards showcasing both historical and predicted churn
-✅ Derived key business insights on churn drivers like contract type, payment mode, and tenure
-✅ Demonstrated a complete end-to-end data analytics pipeline — SQL → Power BI → Python → Power BI
+## 👩‍💻 Author
 
-📊 Power BI Visualization Reference
-📈 Churn Summary Dashboard: Displays churn patterns by gender, age group, contract type, payment method, tenure, internet type, and churn reason
-🤖 Prediction Dashboard: Visualizes predicted churners categorized by gender, state, contract type, age group, and tenure group
+**Varshuuuu**
 
-👩‍💻 Author
-Varshini15-official
+
+
+
