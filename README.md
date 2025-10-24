@@ -33,7 +33,6 @@ This provided a **clean and structured dataset** for both Power BI and Python an
 
 ---
 
-
 ## Project Visuals
 
 ### Churn Summary
