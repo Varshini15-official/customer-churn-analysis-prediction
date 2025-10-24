@@ -132,7 +132,7 @@ This dashboard turned the analysis into **actionable intelligence** for targeted
 
 ---
 
-## 📁 Data Flow Architecture
+## 📁 Workflow
 
 SQL Server (Data Cleaning & View Creation)  
 ↓  
