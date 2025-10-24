@@ -33,6 +33,16 @@ This provided a **clean and structured dataset** for both Power BI and Python an
 
 ---
 
+
+## Project Visuals
+
+### Churn Summary
+![Churn Summary](Churn_Summary.png)
+
+### Churn Prediction
+![Churn Prediction](Churn_Prediction.png)
+
+
 ### 🔹 Step 2: Data Transformation and Modeling (Power BI)
 
 - Imported `vw_ChurnData` from SQL into Power BI  
